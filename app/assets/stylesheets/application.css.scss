@@ -18,6 +18,13 @@
 html, body {
 	font-family: 'Raleway', sans-serif;
 }
+.post_content {
+    padding-left: 40px;
+}
+#main_content .post_wrapper {
+  padding: 2em;
+  border-bottom: 1px solid #141719;
+}
 
 h1, h2, h3, h4, h5, h6 {
 	font-weight: 500;
